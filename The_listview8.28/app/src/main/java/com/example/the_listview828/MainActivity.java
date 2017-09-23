@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
     }
    private void init(){
        for (int i=0;i<20;i++){
-           Buju aaa=new Buju("6666666666666666",R.mipmap.ic_launcher);
+           Buju aaa=new Buju("666666661111666666633333336",R.mipmap.ic_launcher);
            data.add(aaa);
        }
    }
